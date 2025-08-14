@@ -78,10 +78,11 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     border-radius: 25px;
 }
 body{
-    background: url('/registration/A\ calming\,\ moody\ digital\ illustration\ of\ futuristic\ technology\ in\ a\ cozy\,\ cartoonish\ style\ —\ soft\ lighting\,\ muted\ colors\ \(blues\,\ purples\,\ and\ warm\ accents\)\,\ playful\ yet\ modern\ design\,\ minimal\ clutter\,\ subtle\ gradie.jpg');
+    background: url('/A\ calming\,\ moody\ digital\ illustration\ of\ futuristic\ technology\ in\ a\ cozy\,\ cartoonish\ style\ —\ soft\ lighting\,\ muted\ colors\ \(blues\,\ purples\,\ and\ warm\ accents\)\,\ playful\ yet\ modern\ design\,\ minimal\ clutter\,\ subtle\ gradie.jpg');
     background-repeat: no-repeat;
     background-size: cover;
    
     border: 10px solid white;
     border-radius: 25px;
+
 }
