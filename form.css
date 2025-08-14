@@ -1,0 +1,87 @@
+
+    
+div{
+    background-color: rgb(188, 162, 250);
+    
+    float: inline-start;
+    padding: 3%;
+    border-radius: 25px;
+    margin: 6%;
+   margin-left:38%;
+   border: 2px solid rgb(245, 244, 244);
+    
+
+}
+.submit{
+    padding: 3%;
+    margin: 1%;
+    margin-left: 20%;
+    background-color: rgb(93, 246, 69);
+    color: white;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.reset{
+    padding: 3%;
+    margin: 1%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(235, 95, 95);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: 1px solid black;
+     margin-left: 6%;
+    border-radius: 20px;
+}
+#head{
+    text-align: center;
+    border: 5px solid white;
+  border-radius: 25px;
+  padding: 10px ;
+  background-color: aliceblue;
+  font-size: 25px;;
+
+}
+#l1{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    text-align: center;
+    
+    
+    padding: 5px;
+    background-color: rgb(247, 219, 179);
+    border-radius: 25px;
+
+}
+#f1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 25px;
+    padding: 5px;
+    
+
+}
+#l2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    text-align: center;
+    margin: 2;
+    
+    padding: 5px;
+    background-color: rgb(244, 240, 249);
+    border-radius: 25px;
+}
+body{
+    background: url('/registration/A\ calming\,\ moody\ digital\ illustration\ of\ futuristic\ technology\ in\ a\ cozy\,\ cartoonish\ style\ —\ soft\ lighting\,\ muted\ colors\ \(blues\,\ purples\,\ and\ warm\ accents\)\,\ playful\ yet\ modern\ design\,\ minimal\ clutter\,\ subtle\ gradie.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    border: 10px solid white;
+    border-radius: 25px;
+}
