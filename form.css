@@ -78,7 +78,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     border-radius: 25px;
 }
 body{
-    background: url('/ACALMI~1.JPG');
+    background-image: url('/ACALMI~1.JPG');
     background-repeat: no-repeat;
     background-size: cover;
    
@@ -86,5 +86,6 @@ body{
     border-radius: 25px;
 
 }
+
 
 
